@@ -7,11 +7,10 @@ $(function() {
             jPlayer: "#jquery_jplayer_1",
             cssSelectorAncestor: "#jp_container_1"
         }, [{
-			image : 'images/weekly/song1.jpg',	
-            title: "Cro Magnon Man",
-            artist: "Mushroom Records",
-            mp3: "http://www.jplayer.org/audio/mp3/TSP-01-Cro_magnon_man.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/TSP-01-Cro_magnon_man.ogg",
+			image : 'images/playing/freestyle.jpg',	
+            title: "Freestyle",
+            artist: "Lowkey",
+            mp3: "images/songs/Freestyle.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song2.jpg',	
