@@ -31,11 +31,10 @@ $(function() {
             mp3: "images/songs/Dead Inside.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song5.jpg',	
-            title: "Hidden",
-            artist: "Bad Religion",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
+			image : 'images/playing/empty.jpg',	
+            title: "EMPTY",
+            artist: "Lowkey",
+            mp3: "images/songs/EMPTY.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song6.jpg',	
