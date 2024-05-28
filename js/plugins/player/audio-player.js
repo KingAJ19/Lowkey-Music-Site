@@ -25,11 +25,10 @@ $(function() {
             mp3: "images/songs/WHY.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song4.jpg',	
-            title: "Tempered Song",
-            artist: "Shelter",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-01-Tempered-song.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-01-Tempered-song.ogg",
+			image : 'images/playing/dead inside.jpg',	
+            title: "Dead Inside",
+            artist: "Lowkey",
+            mp3: "images/songs/Dead Inside.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song5.jpg',	
