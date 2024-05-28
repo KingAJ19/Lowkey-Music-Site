@@ -55,11 +55,10 @@ $(function() {
             mp3: "images/songs/Without You.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song9.jpg',	
-            title: "Beside Me",
-            artist: "Friendly Fires ",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-06-Beside-me.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-06-Beside-me.ogg",
+			image : 'images/playing/candy.jpg',	
+            title: "Candy",
+            artist: "Lowkey",
+            mp3: "images/songs/Candy.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song2.jpg',	
