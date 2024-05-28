@@ -1828,9 +1828,9 @@ h1.footer_title:after {
 	width: auto;
 	position: absolute;
 	border-radius: 0px 12px 12px 0px;
-	background-image: -moz-linear-gradient( 180deg, rgb(22, 26, 46) 0%, rgb(237, 63, 179) 0%, rgb(59, 200, 231) 0%, rgb(32, 167, 196) 100%);
-	background-image: -webkit-linear-gradient( 180deg, rgb(22, 26, 46) 0%, rgb(237, 63, 179) 0%, rgb(59, 200, 231) 0%, rgb(32, 167, 196) 100%);
-	background-image: -ms-linear-gradient( 180deg, rgb(22, 26, 46) 0%, rgb(237, 63, 179) 0%, rgb(59, 200, 231) 0%, rgb(32, 167, 196) 100%);
+	background-image: -moz-linear-gradient( 180deg, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 100%);
+	background-image: -webkit-linear-gradient( 180deg, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 100%);
+	background-image: -ms-linear-gradient( 180deg, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 0%, rgb(230, 223, 38) 100%);
 	box-shadow: 0px 0px 24px 6px rgba(4, 4, 4, 0.2);
 	float: left;
 	z-index: 10;
