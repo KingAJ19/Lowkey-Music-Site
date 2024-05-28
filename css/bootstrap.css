@@ -462,9 +462,14 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  max-width: 74%;
   height: auto;
 }
+/* 
+.img-fluid .res {
+  max-width: 30%;
+  height: auto;
+} */
 
 .img-thumbnail {
   padding: 0.25rem;
