@@ -61,11 +61,10 @@ $(function() {
             mp3: "images/songs/Candy.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song2.jpg',	
-            title: "Bubble",
-            artist: "Skunkhour",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-07-Bubble.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-07-Bubble.ogg",
+			image : 'images/playing/blank.jpg',	
+            title: "Drip (Remix)",
+            artist: "Lowkey ft Nate",
+            mp3: "images/songs/Drip Remix.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song2.jpg',	
