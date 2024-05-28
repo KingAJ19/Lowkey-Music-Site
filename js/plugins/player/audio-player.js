@@ -43,11 +43,10 @@ $(function() {
             mp3: "images/songs/Valentines Day.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song7.jpg',	
-            title: "Lismore",
-            artist: "Bloodhound Gang",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-04-Lismore.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-04-Lismore.ogg",
+			image : 'images/playing/im-not-okay.jpg',	
+            title: "I'm Not Okay",
+            artist: "Lowkey",
+            mp3: "images/songs/IM NOT OKAY.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song8.jpg',	
