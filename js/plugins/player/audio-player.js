@@ -19,11 +19,10 @@ $(function() {
             mp3: "images/songs/Drip.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song3.jpg',	
-            title: "Cyber Sonnet",
-            artist: "You Am I",
-            mp3: "http://www.jplayer.org/audio/mp3/TSP-07-Cybersonnet.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/TSP-07-Cybersonnet.ogg",
+			image : 'images/playing/why.jpg',	
+            title: "WHY",
+            artist: "Lowkey",
+            mp3: "images/songs/WHY.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song4.jpg',	
