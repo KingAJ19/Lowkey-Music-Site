@@ -72,22 +72,16 @@ $(function() {
             artist: "Lowkey ft Nate",
             mp3: "images/songs/Bang.mp3",
 			option : myPlayListOtion
-        }, {
-			image : 'images/weekly/song2.jpg',	
-            title: "Partir",
-            artist: "The Living End",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-09-Partir.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-09-Partir.ogg",
-			option : myPlayListOtion
-        }, {
-			image : 'images/weekly/song2.jpg',	
-            title: "Thin Ice",
-            artist: "Screaming Trees",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-10-Thin-ice.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-10-Thin-ice.ogg",
-			option : myPlayListOtion
-			
-        }], {
+        }, 
+        //{
+			// image : 'images/weekly/song2.jpg',	
+            // title: "Partir",
+            // artist: "The Living End",
+            // mp3: "http://www.jplayer.org/audio/mp3/Miaow-09-Partir.mp3",
+            // oga: "http://www.jplayer.org/audio/ogg/Miaow-09-Partir.ogg",
+			// option : myPlayListOtion
+        //}, 
+        ], {
             swfPath: "js/plugins",
             supplied: "oga, mp3",
             wmode: "window",
