@@ -49,11 +49,10 @@ $(function() {
             mp3: "images/songs/IM NOT OKAY.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song8.jpg',	
-            title: "The Separation",
-            artist: "Friendly Fires ",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-05-The-separation.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-05-The-separation.ogg",
+			image : 'images/playing/without-you.jpg',	
+            title: "Without You",
+            artist: "Lowkey",
+            mp3: "images/songs/Without You.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song9.jpg',	
