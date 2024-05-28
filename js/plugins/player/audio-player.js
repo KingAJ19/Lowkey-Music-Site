@@ -13,11 +13,10 @@ $(function() {
             mp3: "images/songs/Freestyle.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song2.jpg',	
-            title: "Your Face",
-            artist: "Ministry",
-            mp3: "http://www.jplayer.org/audio/mp3/TSP-05-Your_face.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/TSP-05-Your_face.ogg",
+			image : 'images/playing/drip.jpg',	
+            title: "Drip",
+            artist: "Lowkey",
+            mp3: "images/songs/Drip.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song3.jpg',	
