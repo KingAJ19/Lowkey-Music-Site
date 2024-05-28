@@ -37,11 +37,10 @@ $(function() {
             mp3: "images/songs/EMPTY.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song6.jpg',	
-            title: "Lentement",
-            artist: "Apollo 440",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-03-Lentement.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-03-Lentement.ogg",
+			image : 'images/playing/valentines-day.jpg',	
+            title: "Valentine's Day",
+            artist: "Lowkey",
+            mp3: "images/songs/Valentines Day.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song7.jpg',	
