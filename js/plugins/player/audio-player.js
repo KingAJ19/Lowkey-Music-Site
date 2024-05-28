@@ -67,11 +67,10 @@ $(function() {
             mp3: "images/songs/Drip Remix.mp3",
 			option : myPlayListOtion
         }, {
-			image : 'images/weekly/song2.jpg',	
-            title: "Stirring of a fool",
-            artist: "The Meanies",
-            mp3: "http://www.jplayer.org/audio/mp3/Miaow-08-Stirring-of-a-fool.mp3",
-            oga: "http://www.jplayer.org/audio/ogg/Miaow-08-Stirring-of-a-fool.ogg",
+			image : 'images/playing/blank.jpg',	
+            title: "Bang!",
+            artist: "Lowkey ft Nate",
+            mp3: "images/songs/Bang.mp3",
 			option : myPlayListOtion
         }, {
 			image : 'images/weekly/song2.jpg',	
